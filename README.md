@@ -1,77 +1,71 @@
-<div align="center">
-  <img src="https://vercel.app👋&fontSize=56&animation=twinkling&theme=dark" width="100%" />
-</div>
-
-<div align="center">
-  <h3>🚀 Frontend & Cross-Platform Mobile Developer</h3>
-  <p>Currently working as an Outstaff Developer, building fast, scalable web and mobile applications.</p>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="175px" />
-  <img src="https://vercel.app" alt="GitHub Stats" height="175px" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🌐 Web Frontend & State Management
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Redux Toolkit](https://shields.io)
-![Zustand](https://shields.io)
-
-#### 📱 Cross-Platform Mobile
-![React Native](https://shields.io)
-![Expo](https://shields.io)
-
-#### 🎨 Styling & Animation
-![Tailwind CSS](https://shields.io)
-![Framer Motion](https://shields.io)
-
-#### 🗄️ Backend, Database & Payments
-![Firebase](https://shields.io)
-![SQLite](https://shields.io)
-![Stripe](https://shields.io)
-
-#### 🔧 Environment & Package Managers
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![NPM](https://shields.io)
-![Yarn](https://shields.io)
-
----
-
-### ⚡ Activity Graph
+<!-- ВЕЛИКИЙ АНІМОВАНИЙ НЕОНОВИЙ ЛОГОТИП-БАНЕР -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="gallisak's Activity Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=100&lines=%E2%95%90%E2%95%90%E2%95%90+GALLISAK+%E2%95%90%E2%95%90%E2%95%90" alt="Neon Logo" />
+</p>
+
+<!-- ДИНАМІЧНИЙ РЯДОК СПЕЦІАЛІЗАЦІЇ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=764ABC&center=true&vCenter=true&width=700&lines=Frontend+%26+Cross-Platform+Mobile+Developer;Building+Web+and+Mobile+Ecosystems;React+%2F+Next.js+%2F+React+Native+%2F+Expo" alt="Typing Text" />
 </p>
 
 ---
 
-### 📩 Connect with me
+## Profile Overview
 
-<div align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+I am a software engineer focused on building high-performance web systems and cross-platform mobile apps. Currently engineering products within a commercial outstaffing ecosystem. 
+
+* **Web Applications:** Architecting responsive interfaces with React, Next.js and specialized state managers.
+* **Cross-Platform Mobile:** Developing universal native apps for iOS and Android using React Native and Expo.
+
+---
+
+## Tech Stack
+
+### Technologies in Motion
+<!-- Нативна анімація нескінченного руху іконок технологій -->
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,firebase,git,github,npm,yarn,sqlite,stripe" alt="Moving Tech Stack" />
+</marquee>
+
+### Frameworks, Libraries & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white" alt="RTK Query" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="NativeWind" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+---
+
+## Analytics & Contribution Metrics
+
+### Year Contribution Grid
+<!-- Стабільний графік чистих квадратиків, пофарбований у фірмовий неоновий колір -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00f2fe/gallisak" alt="Gallisak GitHub Contributions Grid" width="100%" />
+</p>
+
+### Git Stats & Activity Summary
+<!-- Нові залізобетонні картки аналітики, які не падають -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gallisak&theme=tokyonight" width="100%" alt="Profile Details" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gallisak&theme=tokyonight" width="100%" alt="Stats Card" />
+</p>
+
+---
+
+## Contact and Collaboration
+
+<p align="left">
+  <a href="https://t.me/galkisak" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile" />
   </a>
   <a href="https://www.linkedin.com/in/andrii-halchyshak-a87abb399" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:agalchisak@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
+</p>
