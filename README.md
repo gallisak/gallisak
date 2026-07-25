@@ -1,11 +1,9 @@
-<!-- ВЕЛИКИЙ АНІМОВАНИЙ НЕОНОВИЙ ЛОГОТИП-БАНЕР -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=100&lines=%E2%95%90%E2%95%90%E2%95%90+GALLISAK+%E2%95%90%E2%95%90%E2%95%90" alt="Neon Logo" />
 </p>
 
-<!-- ДИНАМІЧНИЙ РЯДОК СПЕЦІАЛІЗАЦІЇ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=764ABC&center=true&vCenter=true&width=700&lines=Frontend+%26+Cross-Platform+Mobile+Developer;Building+Web+and+Mobile+Ecosystems;React+%2F+Next.js+%2F+React+Native+%2F+Expo" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=764ABC&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Cross-Platform+Mobile+Developer;Building+Web+and+Mobile+Ecosystems;React+%2F+Next.js+%2F+React+Native+%2F+Expo" alt="Typing Text" />
 </p>
 
 ---
@@ -22,7 +20,6 @@ I am a software engineer focused on building high-performance web systems and cr
 ## Tech Stack
 
 ### Technologies in Motion
-<!-- Нативна анімація нескінченного руху іконок технологій -->
 <marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,firebase,git,github,npm,yarn,sqlite,stripe" alt="Moving Tech Stack" />
 </marquee>
@@ -41,13 +38,11 @@ I am a software engineer focused on building high-performance web systems and cr
 ## Analytics & Contribution Metrics
 
 ### Year Contribution Grid
-<!-- Стабільний графік чистих квадратиків, пофарбований у фірмовий неоновий колір -->
 <p align="center">
   <img src="https://ghchart.rshah.org/00f2fe/gallisak" alt="Gallisak GitHub Contributions Grid" width="100%" />
 </p>
 
 ### Git Stats & Activity Summary
-<!-- Нові залізобетонні картки аналітики, які не падають -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gallisak&theme=tokyonight" width="100%" alt="Profile Details" />
   <br />
