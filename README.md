@@ -14,6 +14,7 @@ I am a software engineer focused on building high-performance web systems and cr
 
 * **Web Applications:** Architecting responsive interfaces with React, Next.js and specialized state managers.
 * **Cross-Platform Mobile:** Developing universal native apps for iOS and Android using React Native and Expo.
+* **Backend:** Developing high-quality APIs using Express, Node.js, Nest, PostgreSQL, and WebSockets.
 
 ---
 
@@ -21,7 +22,7 @@ I am a software engineer focused on building high-performance web systems and cr
 
 ### Technologies in Motion
 <marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,firebase,git,github,npm,yarn,sqlite,stripe" alt="Moving Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,firebase,git,github,npm,yarn,sqlite,stripe,express,nodejs,nest,postgresql" alt="Moving Tech Stack" />
 </marquee>
 
 ### Frameworks, Libraries & Tools
